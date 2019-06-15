@@ -1,3 +1,7 @@
+## Release 1.1.3
+
+* e6d8256 bugfix: QA
+
 ## Release 1.1.2
 
 * 5e2b266 bugfix: bup box versions
