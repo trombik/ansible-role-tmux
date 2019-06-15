@@ -1,3 +1,8 @@
+## Release 1.1.2
+
+* 5e2b266 bugfix: bup box versions
+* 298f4c8 bugfix: QA
+
 ## Release 1.1.1
 
 * 6603cf2 [bugfix] Update rubocop to the latest (#1)
